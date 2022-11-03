@@ -1,0 +1,14 @@
+{
+  "interval": 1,
+  "gpio": 3,
+  "dump_enabled": 1,
+  "slaves": [
+    {
+      "address": "http://192.168.68.112:8000",
+      "name": "ufh-dol"
+    },
+    {
+      "address": "http://192.168.68.102:8000",
+      "name": "ufh-gora"
+    }]
+}
